@@ -1,5 +1,5 @@
-let player_Symbol  = 'X'
-let player_Symbol2 = 'O'
+let player_Symbol  = '<span id="player_Symbol">X</span>'
+let player_Symbol2 = '<span id="player_Symbol2">O</span>'
 let currentPlayer = player_Symbol
 let board = document.querySelector('.board')
 

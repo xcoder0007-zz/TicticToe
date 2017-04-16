@@ -12,9 +12,20 @@
   width: 200px;
   box-sizing: border-box;
   border: 2px solid rgba(58, 58, 58, 0.42);
+  display:flex;
+  font-size:5em;
+  justify-content: center;
+}
+
+#player_Symbol{
+  color:blue;
+}
+
+#player_Symbol2{
+  color:red;
 }
 
 .square:hover{
-  background-color: #00BCD4;
+  background-color: whitesmoke;
 
 }
