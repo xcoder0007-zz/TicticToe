@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 .board{
   display: flex;
   width: 600px;
@@ -15,6 +16,7 @@
   display:flex;
   font-size:5em;
   justify-content: center;
+  font-family: 'Architects Daughter', cursive;
 }
 
 #player_Symbol{
